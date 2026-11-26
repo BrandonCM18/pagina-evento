@@ -1,1 +1,1 @@
-Version del login desde main
+Version final del login resuelta
